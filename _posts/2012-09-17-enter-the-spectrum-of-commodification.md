@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Enter the spectrum of commodification"
+tags: technology, software
+---
+The [price](http://www.computerworld.com/s/article/9230882/Hard_disk_drives_vs._solid_state_drives_Are_SSDs_finally_worth_the_money_?taxonomyId=234&pageNumber=1) of a 2.5" solid-state drive has dropped by three times in three years, tablets sell for [$45 in China](http://venturebeat.com/2012/09/15/hardware-is-dead/), and last quarter more _smartphones_ [were shipped](http://www.idc.com/getdoc.jsp?containerId=prUS23638712) worldwide than the number of people who will be born this year. Hardware is cheap, but custom software is fast becoming a commodity. Almost anywhere you can find developers who can quickly churn out software that meets your needs. India, Russia, Ukraine, and China are all rife with programmers eager to make a living. Expensive enterprise and industry-specific software will always need to be written, but as consumer software becomes cheaper companies must adapt to survive. "Meets your needs" won't be good enough for many, and therein lies Apple's genius. Apple doesn't just sell hardware or software, they sell the experience--the brand. Companies must take a page out of Apple's book and build around not just a product, but an idea. Bring on the magic, or go the way of the dodo bird. Step up your game, or enter the spectrum of commodification.
+
+Don't believe commodification is a word? Check out [commodification](http://en.wikipedia.org/wiki/Commodification) or [commoditization](http://en.wikipedia.org/wiki/Commoditization).
