@@ -1,1 +1,1 @@
-# jmdobry.github.io
+http://www.pseudobry.com
